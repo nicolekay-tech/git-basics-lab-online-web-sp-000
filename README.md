@@ -1,7 +1,7 @@
 # Git Basics Lab
 
 ## Learning Goals
-
+cle
 - Understand how to complete labs on Learn
 - Apply what you've learned about Git version control
 - Initialize a new Git repository
